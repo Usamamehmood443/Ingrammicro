@@ -1,17 +1,26 @@
-##IngramMicro API Management for Product Catalog
-#Overview
-This repository serves as the core API management system, specifically designed to integrate IngramMicro's extensive product catalog with Wix's e-commerce platforms. Developed using Node.js, this backend solution streamlines the process of product creation and management, leveraging the capabilities of both IngramMicro and Ingram Xvantage APIs.
+# IngramMicro API Management for Product Catalog
 
-#Features
-Node.js Backend: Optimized for performance and scalability, the backend is built using Node.js, ensuring a robust and efficient API management system.
-Wix Headless REST API Integration: Seamlessly integrates with Wix's headless REST APIs, enabling efficient management of e-commerce functionalities on Wix platforms.
-IngramMicro Product Catalog Integration: Directly connects with IngramMicro APIs, allowing for real-time access and management of their extensive product catalog.
-Ingram Xvantage API Support: Incorporates the advanced features of Ingram Xvantage APIs, enhancing the capabilities of the system in managing product data and logistics.
-Automated Product Creation: Simplifies the process of product creation on Wix sites, with automated syncing of product details from IngramMicro's catalog.
-Customizable and Extensible: Designed with flexibility in mind, allowing for easy customization and extension to meet specific business needs.
+## Overview
+This repository is dedicated to the API management of IngramMicro's product catalog, facilitating seamless integration with Wix's e-commerce platforms. Developed with Node.js, this backend solution enhances product creation and management through the combined strengths of IngramMicro and Ingram Xvantage APIs.
 
-#Getting Started
-To get started with this API management system, clone the repository, and follow the documentation for setup and configuration instructions. Ensure you have Node.js installed and have access to both Wix and IngramMicro API credentials.
+## Features
 
-#Contributions
-Contributions are welcome! If you have ideas for improvements or want to report a bug, please open an issue or submit a pull request.
+- **Node.js Backend**: Robust and efficient management system built on Node.js, ensuring high performance and scalability.
+- **Wix Headless REST API Integration**: Enables smooth integration with Wix's headless REST APIs for e-commerce functionality.
+- **IngramMicro Product Catalog Integration**: Direct connection to IngramMicro APIs for real-time access and management of a diverse product catalog.
+- **Ingram Xvantage API Support**: Leverages Ingram Xvantage APIs for advanced product data management and logistical support.
+- **Automated Product Creation**: Automated syncing with IngramMicro's catalog for streamlined product creation on Wix platforms.
+- **Customizable and Extensible**: Designed for flexibility, allowing for easy customization and extension to suit specific business requirements.
+
+## Getting Started
+
+To utilize this API management system:
+
+1. Clone the repository.
+2. Follow the setup and configuration instructions in the documentation.
+3. Ensure Node.js is installed.
+4. Obtain necessary API credentials from Wix and IngramMicro.
+
+## Contributions
+
+Contributions to this project are welcome! Feel free to open an issue or submit a pull request for bug reports or feature suggestions.
